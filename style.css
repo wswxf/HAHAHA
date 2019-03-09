@@ -1,0 +1,41 @@
+*{margin:0 0;padding: 0 0;}
+#header{width: 900px;height:50px;margin:0 auto;background:url('images/1.jpg');}
+ul{list-style: none;}
+.selected{color:#FF6500;}
+#header ul{width:400px;margin: 0 auto;}
+#header ul li{font-size: 12px;float:left;line-height: 50px;margin: 0 10px;display: block;cursor: pointer;}
+#blank{width: 900px;height:5px;margin: 0 auto;}
+#bg{background: url('images/5.png') no-repeat;background-size:900px 950px;height: 950px;width: 900px;position: relative;margin: 0 auto;}
+.hide{display: none;}
+.one{position: relative;left:150px;height: 920px;width: 600px; }
+.title{position: relative;top: 50px;width: 600px;height: 300px;}
+.scroll{position:relative; top: -20px;float: right;}
+.scroll li{float: left;font-size: 36px;width: 10px;height: 10px;background-color: grey;margin: 0 5px;cursor: pointer;}
+.scroll .color{background: #FF6500;}
+pre{position: relative;text-align: center;top:55px;letter-spacing: 0.4em;}
+.two{position: relative;left: 150px;width: 600px;height: 920px;}
+.picture{position: relative;top: 50px;width: 500px;height: 200px;left: 50px;}
+.introduce{position: relative;top:60px;}
+.left{float: left;width: 100px;}
+.left table{width: 100px;height: 80px;}
+.left table td{text-align: center;}
+.left table tr{cursor: pointer;background: #fffafa;margin-bottom: 10px;}
+.left .select2{background: #fff68f;}
+.left .sureselect2{background: #ffc1c1;}
+.right{float: right;width: 478px;border:1px solid #ffefd5;padding:10px 10px; }
+.clear{clear: both;}
+.three{position: relative;left: 150px;width: 600px;height: 920px;}
+.picture2{position: relative;top: 50px;width: 500px;left: 50px;height: 300px;}
+.picture2 img{cursor: pointer;}
+.picture2 img:hover{border:2px solid #ff6500;}
+.summery{background: url('images/18.jpg');}
+.summery input{margin: 0 275px; width: 50px;height:30px;cursor: pointer;}
+.four{position: relative;left: 150px;width: 600px;height: 920px;}
+.navigation{position: relative;top: 50px;height: 30px;background: url('images/20.jpg');background-size: 660px 165px;background-position: -32px 122px;-moz-border-radius:8px;-webkit-border-radius:8px;}
+.navigation li{float: left;width: 85px;text-align: center;line-height: 30px;margin: 0 5px;cursor: pointer;}
+.navigation li:hover{background: #fff68f;-moz-border-radius:8px;-webkit-border-radius:8px;}
+.down{position: relative;top:80px;}
+.left2{float: left;width: 250px;}
+.right2{float: right;width: 330px;border:1px solid #ffefd5;margin: 0 5px;padding: 10px 4px;}
+.sureselect3{background:#ffc1c1;-moz-border-radius:8px;-webkit-border-radius:8px;}
+.bottom{text-align: center;line-height: 20px;opacity: 0.4;}
